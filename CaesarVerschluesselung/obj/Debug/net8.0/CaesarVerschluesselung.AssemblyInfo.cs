@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CaesarVerschluesselung")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ad979d47e0c264cc7c850bcab003ecf273d8251")]
 [assembly: System.Reflection.AssemblyProductAttribute("CaesarVerschluesselung")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CaesarVerschluesselung")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
