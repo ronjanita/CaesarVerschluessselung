@@ -9,7 +9,7 @@ class Caesar
             if (char.IsLetter(letter))  // überprüft ob das zeichen ein buchstabe ist
             {
                 char baseChar = char.IsUpper(letter) ? 'A' : 'a';  //unterscheidet zwischen gross und klei buchstaben
-                int newPosition = letter - baseChar + shift;  /7berecnet neu eposition von buchstaben
+                int newPosition = letter - baseChar + shift;  //berecnet neu eposition von buchstaben
                 if (newPosition > 25)  // falls die  neu estelle über 25 (also z) geht, springt sie wider zu 8 zurück
                 {
                     newPosition -= 26;
